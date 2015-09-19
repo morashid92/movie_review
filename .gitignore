@@ -19,4 +19,5 @@
 # You can create this file later to store your AWS credentials. Instead an exmaple 
 # can be found in /.env_example
 /.env
+/README.rdoc
    
